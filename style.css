@@ -116,11 +116,12 @@ button {
     border-radius: 10px;
     border: none;
     margin-bottom: 10px;
+	margin-top: 15px;
 }
 .first-child {
     background: hsl(245, 75%, 52%);
     color: #fff;
-    box-shadow: 0px 18px 30px -8px rgba(56,41,224,0.24);
+	box-shadow: 0px 10px 25px 0px rgba(50,100,200,.6);
   }
 .second-child {
     background-color: transparent;
