@@ -30,7 +30,7 @@ main {
     align-self: center;
     justify-self: center;
     flex-direction: column;
-    border-radius: 12px;
+    border-radius: 15px;
     font-size: 16px;
     margin: auto;
     box-shadow: 0px 6px 31px -1px rgba(135,153,207,0.3);
@@ -52,7 +52,9 @@ p {
     width: 80%;
     text-align: center;
     margin: auto;
+	line-height: 25px;
     color: hsl(224, 23%, 55%);
+	
 }
 
  /* pricing section */
@@ -80,6 +82,7 @@ h3 {
     color: hsl(224, 23%, 55%);
     margin-top: 0;
     margin-bottom: auto;
+	line-height: 30px
 }
 .plan {
     display: flex;
@@ -121,6 +124,7 @@ button {
     background: hsl(245, 75%, 52%);
     color: #fff;
     box-shadow: 0px 18px 30px -8px rgba(56,41,224,0.24);
+	margin-top: 10px
   }
 .second-child {
     background-color: transparent;
